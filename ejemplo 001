@@ -1,0 +1,22 @@
+"""
+CALCULADORA BASICA
+03/03/25
+trabajaron: Ceron Dauzon, Del Angel Alvino, Nevraumont Ceballos 
+este codigo sirva para entender mejor las operaciones aritmeticas basicas en python
+sirve como una calculadora basica 
+"""
+#asignacion de valores
+numero1 = 5 #valor 1
+numero2 = 3 #valor 2
+
+#operaciones matematicas 
+suma = numero1 + numero2 #realiza la operacion de suma
+resta = numero1 - numero2 #realiza la operacion de resta
+multiplicacion = numero1 * numero2 #realiza la operacion de multiplicacion 
+division = numero1 / numero2 #realiza la operacion de division 
+
+#muestra los resultados
+print("Suma:", suma) #muestra el resultado de la suma
+print("Resta:", resta) #muestra el resultado de la resta 
+print("Multiplicación:", multiplicacion) #muestra el resultado de la multiplicacion 
+print("División:", division) #muestra el resultado de la division
