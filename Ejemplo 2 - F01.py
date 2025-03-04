@@ -5,7 +5,7 @@
 
 # 2025 / 03/ 03 - V. 1. 1. 2
 
-# TRABAJARON: CESAR ARTURO / CesarDAlvin | SARA CRYSTEL / Sara130401 |
+# TRABAJARON: CESAR ARTURO / CesarDAlvin | SARA CRYSTEL / Sara130401 | CERON DAUZON 
 
 frutas = ["Uvas", "Guanabana", "Piña", "Fresa"] # SE CREA UNA LISTA CON FRUTAS
 
